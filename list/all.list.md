@@ -117,7 +117,7 @@
 | 111 | [HD]fubo sports network (720p) | epg.pw | <https://epg.pw/stream/604ddc6809052ab8ef1d0efb806f35b815b7d40aea4ff74120dae94ec1f899b6.m3u8> |
 | 112 | [SD]CCM | epg.pw | <https://epg.pw/stream/d2d76a1dcfd5d06dabede623e774c466e978c97c180dce8048caa4a334649c9d.ctv> |
 | 113 | [VGA]cctv戏曲 | epg.pw | <https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv> |
-| 114 | [BD]cctv1 | epg.pw | <https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8> |
+| 114 | [BD]cctv1[ipv6] | epg.pw | <https://epg.pw/stream/5674233683f0498e4271ddbeb345ec29c0eba703c988e6962595550dc1af7b9a.m3u8> |
 | 115 | [BD]cctv10 | epg.pw | <https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8> |
 | 116 | [BD]cctv11[ipv6] | epg.pw | <https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
 | 117 | [BD]cctv12 | epg.pw | <https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8> |
@@ -236,7 +236,7 @@
 | 230 | [HD]hbo family | epg.pw | <https://epg.pw/stream/2c7a16e88b105605a30398a655ab5d1c322671647fd9b63efbaec7aa68c1c26f.ctv> |
 | 231 | [BD]HBOFAMILYUSA | epg.pw | <https://epg.pw/stream/525daf90b08edc28e092095090545e21bf1d1b6a017000aabce2ed2870020fa9.ctv> |
 | 232 | [BD]hbo hd | epg.pw | <https://epg.pw/stream/4942abf0111719d244945b3528ad1061b3ad4af300754b34f22cf04471b0f76b.ctv> |
-| 233 | [BD]HBO HD USA | epg.pw | <https://epg.pw/stream/9dc3fbd6af68193c08bebd9b9bceb4728df43ab4061cef2d1777e2bfcf2a9dbe.ctv> |
+| 233 | [BD]HBO HD USA | epg.pw | <https://epg.pw/stream/652f24f7f942671bd428e51c096d6f8beb689b1886d8ecc84231fac9b58248a0.ctv> |
 | 234 | [SD]hbo signature tree | epg.pw | <https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv> |
 | 235 | [BD]HBO Signature | epg.pw | <https://epg.pw/stream/45167e6cfb67fae7864ce5d16431e93513bc748d857fd6fdccdf92d47b1fe8db.ctv> |
 | 236 | [BD]HBOWEST | epg.pw | <https://epg.pw/stream/14df15ffbf5332576e587bdcce450f2193146b553aa45c1b4b52d3901f33ca47.ctv> |
@@ -376,7 +376,7 @@
 | 370 | [HD]supersport cricket | epg.pw | <https://epg.pw/stream/78782b466b71f72e5367066cc8c55abbdb123bfaae9284b04396a186f66f5e20.ctv> |
 | 371 | [BD]supersport golf | epg.pw | <https://epg.pw/stream/1c29ef48b3ed686cd0343f9b3f427a5a53de03ba82f79069d70a52ffa840a1b9.m3u8> |
 | 372 | [BD]supersport football | epg.pw | <https://epg.pw/stream/dea68497a58cb20a1bd62b9aa658462adfe337bf868f181a505cf3031f0050cd.ctv> |
-| 373 | [HD]Suria | epg.pw | <https://epg.pw/stream/f997e07cf396972aa44e867bcf9e77f9b4fb5593c7c2eca780e61c575300ef78.ctv> |
+| 373 | [HD]Suria | epg.pw | <https://epg.pw/stream/1a70676d38a46b933ffba6eb0868bf4348fef829da08105c80b73e8326a97972.ctv> |
 | 374 | [HD]tbn inspire | epg.pw | <https://epg.pw/stream/154652d9d55eb88b685f11f5dce06e99346a143a86c279225ff0874ad10bf1e6.m3u8> |
 | 375 | [VGA]tbsテレビ | epg.pw | <https://epg.pw/stream/5339f1b378b805a209c2d0266a4632efee109b901e34f4c1073677501f0ae218.m3u8> |
 | 376 | [HD]TCM USA | epg.pw | <https://epg.pw/stream/6c6ccc926a032e58e4b9a38b99fd298ea68cba4cc8874a373ea553e206170368.ctv> |
@@ -708,8 +708,8 @@
 | 702 | [HD]fox sports 3 | epg.pw | <https://epg.pw/stream/3d7772046edb6864b2cf7c21cf778bb534816d235d75b93490f183006fd93597.ctv> |
 | 703 | [HD]fox türkiye (720p) | epg.pw | <https://epg.pw/stream/3e2f7099a6cd9a6ea59306d70fb7b2c0a394084a84f5d026c7d0db8957071a10.m3u8> |
 | 704 | [HD]fox weather (720p) | epg.pw | <https://epg.pw/stream/495575ab6776a513fe2e52a9e97c1b4eb5530350ad8d6fcc71501cae1b46de5b.m3u8> |
-| 705 | [HD]france 24 | epg.pw | <https://epg.pw/stream/58cb3d52c80a206560e75814aac1f62cf939ab0161bb8867dba2893ab3c3d8cb.m3u8> |
-| 706 | [BD]france 24 english | epg.pw | <https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8> |
+| 705 | [BD]france 24 english | epg.pw | <https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8> |
+| 706 | [SD]france 24 french | epg.pw | <https://epg.pw/stream/0d8c0fb4d80987b70b107b9c3b2a95deace4aff2d3dfa3dc62866db9ac8decd2.ctv> |
 | 707 | [BD]franken fernsehen | epg.pw | <https://epg.pw/stream/82b2f926f6c8c31c749af6ec5e790ca1d7ba24521960a246fd0fb86339bb8d20.m3u8> |
 | 708 | [BD]freedom (freeдom) (uatv) (720p) | epg.pw | <https://epg.pw/stream/f158ecf6a3a28bcf51aca7fc4273121ede59c16db76cb1d5b5dfbf7fe9f24297.m3u8> |
 | 709 | [HD]french lover | epg.pw | <https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
@@ -1666,4 +1666,4 @@
 | 1660 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1661 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Sun Feb 04 2024 16:15:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 04 2024 18:18:14 GMT+0000 (Coordinated Universal Time)**

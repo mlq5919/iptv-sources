@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="BTV卡酷少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719124424034309_53.jpg" group-title="动画",[BD]brtv卡酷少儿
 https://epg.pw/stream/87c7d64450a0d80c85933b6caaea95a315accc0d1c765938e6b24b61f71b20ca.ctv
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="13842" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="综合",[BD]cctv1
-https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="13842" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="综合",[BD]cctv1[ipv6]
+https://epg.pw/stream/5674233683f0498e4271ddbeb345ec29c0eba703c988e6962595550dc1af7b9a.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="13852" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="其它",[BD]cctv10
 https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="13853" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091841489866_26.png" group-title="电影",[BD]cctv11[ipv6]
@@ -67,7 +67,7 @@ https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63e
 https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
 #EXTINF:-1 tvg-name="hot" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/01/26/large/20230126161800103676_23.jpeg" group-title="电影",[HD]hot
 https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8
-#EXTINF:-1 tvg-name="lntv 1" tvg-id="" tvg-country="中国大陆" tvg-language="蒙古" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164220809563_25.png" group-title="综合",[BD]lntv 1
+#EXTINF:-1 tvg-name="lntv 1" tvg-id="" tvg-country="中国大陆" tvg-language="蒙古" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164220809563_25.png" group-title="综合",[VGA]lntv 1
 https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8
 #EXTINF:-1 tvg-name="newtv武搏世界" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531232150730728_62.jpg" group-title="运动",[BD]newtv武搏世界[ipv6]
 https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8

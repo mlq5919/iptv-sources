@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]brtv卡酷少儿 | epg.pw | <https://epg.pw/stream/87c7d64450a0d80c85933b6caaea95a315accc0d1c765938e6b24b61f71b20ca.ctv> |
-| 2 | [BD]cctv1 | epg.pw | <https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8> |
+| 2 | [BD]cctv1[ipv6] | epg.pw | <https://epg.pw/stream/5674233683f0498e4271ddbeb345ec29c0eba703c988e6962595550dc1af7b9a.m3u8> |
 | 3 | [BD]cctv10 | epg.pw | <https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8> |
 | 4 | [BD]cctv11[ipv6] | epg.pw | <https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8> |
 | 5 | [BD]cctv12 | epg.pw | <https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8> |
@@ -38,7 +38,7 @@
 | 32 | [SD]cgtn français (576p) [not 24/7] | epg.pw | <https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8> |
 | 33 | [SD]cgtn русский | epg.pw | <https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8> |
 | 34 | [HD]hot | epg.pw | <https://epg.pw/stream/a7de069ab6c54e6671e652a1631dd43e9a4264933333173f8946043cdedce7f5.m3u8> |
-| 35 | [BD]lntv 1 | epg.pw | <https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8> |
+| 35 | [VGA]lntv 1 | epg.pw | <https://epg.pw/stream/e9915400da6af7bc965753e303a49dccd7146a5b098c0c284287af30dec117f3.m3u8> |
 | 36 | [BD]newtv武搏世界[ipv6] | epg.pw | <https://epg.pw/stream/cb903f753983584eda87b8ad27daf481cdd0172fd56c4842d6f36103d64b4145.m3u8> |
 | 37 | [BD]rt documentary | epg.pw | <https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8> |
 | 38 | [HD]三明新闻综合 | epg.pw | <https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8> |
@@ -141,4 +141,4 @@
 | 135 | [SD]黑龙江公共农业 | epg.pw | <https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8> |
 | 136 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Sun Feb 04 2024 14:11:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 04 2024 16:15:59 GMT+0000 (Coordinated Universal Time)**
